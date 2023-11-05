@@ -10,3 +10,5 @@ a comunicação com o servidor FTP e implementa todas as funcionalidades de uma 
 
 Nesse repositório também há um arquivo "TextoParaUpload.txt" que serve de exemplo de arquivo que pode ser enviado para o servidor
 para demonstrar o funcionamento do projeto.
+
+Link para vídeo de demonstração do programa funcionando: https://drive.google.com/file/d/1hrAVzOuPccXSYKbvv8gJalrwwlzcXtf9/view?usp=sharing
